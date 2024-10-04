@@ -9,3 +9,5 @@ render_template('head');
 render_template('header');
 render_template('ammo-page', $data);
 render_template('style');
+
+?>
