@@ -13,8 +13,8 @@
     "vRecoil": "-3",
     "hRecoil": "-5",
     "wounding": "",
-    "dataImg":"src/img/ammo/5-7x28/SS198-5-7x28.jpg",
-    "ammoImg":"src/img/ammo/5-7x28/ammo-SS198-5-7x28.jpg"
+    "dataImg":"../src/img/ammo/5-7x28/SS198-5-7x28.jpg",
+    "ammoImg":"../src/img/ammo/5-7x28/ammo-SS198-5-7x28.jpg"
   },
   "SS190": {
     "id": "2",
@@ -30,8 +30,8 @@
     "vRecoil": "-3",
     "hRecoil": "-5",
     "wounding": "",
-    "dataImg":"src/img/ammo/5-7x28/SS190-5-7x28.jpg",
-    "ammoImg":"src/img/ammo/5-7x28/ammo-SS190-5-7x28.jpg"
+    "dataImg":"../src/img/ammo/5-7x28/SS190-5-7x28.jpg",
+    "ammoImg":"../src/img/ammo/5-7x28/ammo-SS190-5-7x28.jpg"
   },
   "L191": {
     "id": "3",
@@ -47,8 +47,8 @@
     "vRecoil": "-2",
     "hRecoil": "-4",
     "wounding": "",
-    "dataImg":"src/img/ammo/5-7x28/L191-5-7x28.jpg",
-    "ammoImg":"src/img/ammo/5-7x28/ammo-L191-5-7x28.jpg"
+    "dataImg":"../src/img/ammo/5-7x28/L191-5-7x28.jpg",
+    "ammoImg":"../src/img/ammo/5-7x28/ammo-L191-5-7x28.jpg"
   },
   "SS197SR": {
     "id": "4",
@@ -64,8 +64,8 @@
     "vRecoil": "-1",
     "hRecoil": "-2",
     "wounding": "",
-    "dataImg":"src/img/ammo/5-7x28/SS197SR-5-7x28.jpg",
-    "ammoImg":"src/img/ammo/5-7x28/ammo-SS197SR-5-7x28.jpg"
+    "dataImg":"../src/img/ammo/5-7x28/SS197SR-5-7x28.jpg",
+    "ammoImg":"../src/img/ammo/5-7x28/ammo-SS197SR-5-7x28.jpg"
   },
   "R37.X": {
     "id": "5",
@@ -81,8 +81,8 @@
     "vRecoil": "+1",
     "hRecoil": "+2",
     "wounding": "medium",
-    "dataImg":"src/img/ammo/5-7x28/R37X-5-7x28.jpg",
-    "ammoImg":"src/img/ammo/5-7x28/ammo-R37X-5-7x28.jpg"
+    "dataImg":"../src/img/ammo/5-7x28/R37X-5-7x28.jpg",
+    "ammoImg":"../src/img/ammo/5-7x28/ammo-R37X-5-7x28.jpg"
   },
   "R37.F": {
     "id": "6",
@@ -113,8 +113,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-8x42/DVC12-5-8x42.jpg",
-    "ammoImg":"src/img/ammo/5-8x42/ammo-DVC12-5-8x42.jpg"
+    "dataImg":"../src/img/ammo/5-8x42/DVC12-5-8x42.jpg",
+    "ammoImg":"../src/img/ammo/5-8x42/ammo-DVC12-5-8x42.jpg"
   },
   "DVP88":{
     "id": "8",
@@ -130,8 +130,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-8x42/DVP88-5-8x42.jpg",
-    "ammoImg":"src/img/ammo/5-8x42/ammo-DVP88-5-8x42.jpg"
+    "dataImg":"../src/img/ammo/5-8x42/DVP88-5-8x42.jpg",
+    "ammoImg":"../src/img/ammo/5-8x42/ammo-DVP88-5-8x42.jpg"
   },
   "DBP87":{
     "id": "9",
@@ -147,8 +147,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-8x42/DBP87-5-8x42.jpg",
-    "ammoImg":"src/img/ammo/5-8x42/ammo-DBP87-5-8x42.jpg"
+    "dataImg":"../src/img/ammo/5-8x42/DBP87-5-8x42.jpg",
+    "ammoImg":"../src/img/ammo/5-8x42/ammo-DBP87-5-8x42.jpg"
   },
   "BS5":{
     "id": "10",
@@ -164,8 +164,8 @@
     "vRecoil":"¡3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-45x39/BS-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-BS-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/BS-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-BS-5-45x39.jpg"
   },
   "BP5":{
     "id": "11",
@@ -181,8 +181,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"low",
-    "dataImg":"src/img/ammo/5-45x39/BP-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-BP-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/BP-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-BP-5-45x39.jpg"
   },
   "PP5":{
     "id": "12",
@@ -198,8 +198,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/5-45x39/PP-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-PP-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/PP-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-PP-5-45x39.jpg"
   },
   "PS5":{
     "id": "13",
@@ -215,8 +215,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/5-45x39/PS-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-PS-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/PS-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-PS-5-45x39.jpg"
   },
   "HP545":{
     "id": "14",
@@ -232,8 +232,8 @@
     "vRecoil":"",
     "hRecoil":"",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/5-45x39/HP-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-HP-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/HP-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-HP-5-45x39.jpg"
   },
   "PRS5":{
     "id": "15",
@@ -249,8 +249,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/5-45x39/PRS-5-45x39.jpg",
-    "ammoImg":"src/img/ammo/5-45x39/ammo-PRS-5-45x39.jpg"
+    "dataImg":"../src/img/ammo/5-45x39/PRS-5-45x39.jpg",
+    "ammoImg":"../src/img/ammo/5-45x39/ammo-PRS-5-45x39.jpg"
   },
   "M995":{
     "id": "16",
@@ -266,8 +266,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-56x45/M995-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-M995-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/M995-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-M995-5-56x45.jpg"
   },
   "M855A1":{
     "id": "17",
@@ -283,8 +283,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-56x45/M855A1-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-M855A1-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/M855A1-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-M855A1-5-56x45.jpg"
   },
   "M855":{
     "id": "18",
@@ -300,8 +300,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/5-56x45/M855-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-M855-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/M855-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-M855-5-56x45.jpg"
   },
   "55FMJ":{
     "id": "19",
@@ -317,8 +317,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/5-56x45/55FMJ-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-55FMJ-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/55FMJ-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-55FMJ-5-56x45.jpg"
   },
   "55HP":{
     "id": "20",
@@ -334,8 +334,8 @@
     "vRecoil":"",
     "hRecoil":"",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/5-56x45/55HP-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-55HP-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/55HP-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-55HP-5-56x45.jpg"
   },
   "M193":{
     "id": "21",
@@ -351,8 +351,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"low",
-    "dataImg":"src/img/ammo/5-56x45/M193-5-56x45.jpg",
-    "ammoImg":"src/img/ammo/5-56x45/ammo-M193-5-56x45.jpg"
+    "dataImg":"../src/img/ammo/5-56x45/M193-5-56x45.jpg",
+    "ammoImg":"../src/img/ammo/5-56x45/ammo-M193-5-56x45.jpg"
   },
   "Pst":{
     "id": "22",
@@ -368,8 +368,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"low",
-    "dataImg":"src/img/ammo/7-62x25/Pst-7-62x25.jpg",
-    "ammoImg":"src/img/ammo/7-62x25/ammo-Pst-7-62x25.jpg"
+    "dataImg":"../src/img/ammo/7-62x25/Pst-7-62x25.jpg",
+    "ammoImg":"../src/img/ammo/7-62x25/ammo-Pst-7-62x25.jpg"
   },
   "AKBS":{
     "id": "23",
@@ -385,8 +385,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/7-62x25/AKBS-7-62x25.jpg",
-    "ammoImg":"src/img/ammo/7-62x25/ammo-AKBS-7-62x25.jpg"
+    "dataImg":"../src/img/ammo/7-62x25/AKBS-7-62x25.jpg",
+    "ammoImg":"../src/img/ammo/7-62x25/ammo-AKBS-7-62x25.jpg"
   },
   "PT":{
     "id": "24",
@@ -402,8 +402,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x25/PT-7-62x25.jpg",
-    "ammoImg":"src/img/ammo/7-62x25/ammo-PT-7-62x25.jpg"
+    "dataImg":"../src/img/ammo/7-62x25/PT-7-62x25.jpg",
+    "ammoImg":"../src/img/ammo/7-62x25/ammo-PT-7-62x25.jpg"
   },
   "LRN":{
     "id": "25",
@@ -419,8 +419,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/7-62x25/LRN-7-62x25.jpg",
-    "ammoImg":"src/img/ammo/7-62x25/ammo-LRN-7-62x25.jpg"
+    "dataImg":"../src/img/ammo/7-62x25/LRN-7-62x25.jpg",
+    "ammoImg":"../src/img/ammo/7-62x25/ammo-LRN-7-62x25.jpg"
   },
   "AP7":{
     "id": "26",
@@ -436,8 +436,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"low",
-    "dataImg":"src/img/ammo/7-62x39/AP-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-AP-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/AP-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-AP-7-62x39.jpg"
   },
   "BP7":{
     "id": "27",
@@ -453,8 +453,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"low",
-    "dataImg":"src/img/ammo/7-62x39/BP-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-BP-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/BP-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-BP-7-62x39.jpg"
   },
   "T45M7":{
     "id": "28",
@@ -470,8 +470,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x39/T45M-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-T45M-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/T45M-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-T45M-7-62x39.jpg"
   },
   "PS7":{
     "id": "29",
@@ -487,8 +487,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"low",
-    "dataImg":"src/img/ammo/7-62x39/PS-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-PS-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/PS-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-PS-7-62x39.jpg"
   },
   "US7":{
     "id": "30",
@@ -504,8 +504,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/7-62x39/US-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-US-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/US-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-US-7-62x39.jpg"
   },
   "HP7":{
     "id": "31",
@@ -521,8 +521,8 @@
     "vRecoil":"",
     "hRecoil":"",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/7-62x39/HP-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-HP-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/HP-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-HP-7-62x39.jpg"
   },
   "LP7":{
     "id": "32",
@@ -538,8 +538,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/7-62x39/LP-7-62x39.jpg",
-    "ammoImg":"src/img/ammo/7-62x39/ammo-LP-7-62x39.jpg"
+    "dataImg":"../src/img/ammo/7-62x39/LP-7-62x39.jpg",
+    "ammoImg":"../src/img/ammo/7-62x39/ammo-LP-7-62x39.jpg"
   },
   "M61":{
     "id": "33",
@@ -555,8 +555,8 @@
     "vRecoil":"-7",
     "hRecoil":"-7",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x51/M61-7-62x51.jpg",
-    "ammoImg":"src/img/ammo/7-62x51/ammo-M61-7-62x51.jpg"
+    "dataImg":"../src/img/ammo/7-62x51/M61-7-62x51.jpg",
+    "ammoImg":"../src/img/ammo/7-62x51/ammo-M61-7-62x51.jpg"
   },
   "M62":{
     "id": "34",
@@ -572,8 +572,8 @@
     "vRecoil":"-6",
     "hRecoil":"-6",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x51/M62-7-62x51.jpg",
-    "ammoImg":"src/img/ammo/7-62x51/amo-M62-7-62x51.jpg"
+    "dataImg":"../src/img/ammo/7-62x51/M62-7-62x51.jpg",
+    "ammoImg":"../src/img/ammo/7-62x51/amo-M62-7-62x51.jpg"
   },
   "M80":{
     "id": "35",
@@ -589,8 +589,8 @@
     "vRecoil":"-5",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x51/M80-7-62x51.jpg",
-    "ammoImg":"src/img/ammo/7-62x51/ammo-M80-7-62x51.jpg"
+    "dataImg":"../src/img/ammo/7-62x51/M80-7-62x51.jpg",
+    "ammoImg":"../src/img/ammo/7-62x51/ammo-M80-7-62x51.jpg"
   },
   "BPZ":{
     "id": "36",
@@ -606,8 +606,8 @@
     "vRecoil":"-3",
     "hRecoil":"-4",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x51/BPZ-7-62x51.jpg",
-    "ammoImg":"src/img/ammo/7-62x51/ammo-BPZ-7-62x51.jpg"
+    "dataImg":"../src/img/ammo/7-62x51/BPZ-7-62x51.jpg",
+    "ammoImg":"../src/img/ammo/7-62x51/ammo-BPZ-7-62x51.jpg"
   },
   "UN7":{
     "id": "37",
@@ -623,8 +623,8 @@
     "vRecoil":"-2",
     "hRecoil":"-3",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/7-62x51/UN-7-62x51.jpg",
-    "ammoImg":"src/img/ammo/7-62x51/ammo-UN-7-62x51.jpg"
+    "dataImg":"../src/img/ammo/7-62x51/UN-7-62x51.jpg",
+    "ammoImg":"../src/img/ammo/7-62x51/ammo-UN-7-62x51.jpg"
   },
   "7N37": {
     "id": "38",
@@ -640,8 +640,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x54/7N37-7-62x54.jpg",
-    "ammoImg":"src/img/ammo/7-62x54/ammo-7N37-7-62x54.jpg"
+    "dataImg":"../src/img/ammo/7-62x54/7N37-7-62x54.jpg",
+    "ammoImg":"../src/img/ammo/7-62x54/ammo-7N37-7-62x54.jpg"
   },
   "SNB": {
     "id": "39",
@@ -657,8 +657,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x54/SNB-7-62x54.jpg",
-    "ammoImg":"src/img/ammo/7-62x54/ammo-SNB-7-62x54.jpg"
+    "dataImg":"../src/img/ammo/7-62x54/SNB-7-62x54.jpg",
+    "ammoImg":"../src/img/ammo/7-62x54/ammo-SNB-7-62x54.jpg"
   },
   "7BT1": {
     "id": "40",
@@ -674,8 +674,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x54/7BT1-7-62x54.jpg",
-    "ammoImg":"src/img/ammo/7-62x54/ammo-7BT1-7-62x54.jpg"
+    "dataImg":"../src/img/ammo/7-62x54/7BT1-7-62x54.jpg",
+    "ammoImg":"../src/img/ammo/7-62x54/ammo-7BT1-7-62x54.jpg"
   },
   "LPS": {
     "id": "41",
@@ -691,8 +691,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x54/LPS-7-62x54.jpg",
-    "ammoImg":"src/img/ammo/7-62x54/ammo-LPS-7-62x54.jpg"
+    "dataImg":"../src/img/ammo/7-62x54/LPS-7-62x54.jpg",
+    "ammoImg":"../src/img/ammo/7-62x54/ammo-LPS-7-62x54.jpg"
   },
   "T46M7": {
     "id": "42",
@@ -708,8 +708,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"",
-    "dataImg":"src/img/ammo/7-62x54/T46M-7-62x54.jpg",
-    "ammoImg":"src/img/ammo/7-62x54/ammo-T46M-7-62x54.jpg"
+    "dataImg":"../src/img/ammo/7-62x54/T46M-7-62x54.jpg",
+    "ammoImg":"../src/img/ammo/7-62x54/ammo-T46M-7-62x54.jpg"
   },
   "7N37-9":{
     "id": "43",
@@ -725,8 +725,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/9x19/7N31-9x19.jpg",
-    "ammoImg":"src/img/ammo/9x19/ammo-7N31-9x19.jpg"
+    "dataImg":"../src/img/ammo/9x19/7N31-9x19.jpg",
+    "ammoImg":"../src/img/ammo/9x19/ammo-7N31-9x19.jpg"
   },
   "AP6.3":{
     "id": "44",
@@ -742,8 +742,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"low",
-    "dataImg":"src/img/ammo/9x19/AP63-9x19.jpg",
-    "ammoImg":"src/img/ammo/9x19/ammo-AP63-9x19.jpg"
+    "dataImg":"../src/img/ammo/9x19/AP63-9x19.jpg",
+    "ammoImg":"../src/img/ammo/9x19/ammo-AP63-9x19.jpg"
   },
   "Pst-gzh":{
     "id": "45",
@@ -759,8 +759,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/9x19/Pst-9x19.jpg",
-    "ammoImg":"src/img/ammo/9x19/ammo-Pst-9x19.jpg"
+    "dataImg":"../src/img/ammo/9x19/Pst-9x19.jpg",
+    "ammoImg":"../src/img/ammo/9x19/ammo-Pst-9x19.jpg"
   },
   "PS0-gzh":{
     "id": "46",
@@ -776,8 +776,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/9x19/PS0-9x19.jpg",
-    "ammoImg":"src/img/ammo/9x19/ammo-PS0-9x19.jpg"
+    "dataImg":"../src/img/ammo/9x19/PS0-9x19.jpg",
+    "ammoImg":"../src/img/ammo/9x19/ammo-PS0-9x19.jpg"
   },
   "Dum":{
     "id": "47",
@@ -793,8 +793,8 @@
     "vRecoil":"",
     "hRecoil":"",
     "wounding":"high",
-    "dataImg":"src/img/ammo/9x19/DUMDUM-9x19.jpg",
-    "ammoImg":"src/img/ammo/9x19/ammo-DUMDUM-9x19.jpg"
+    "dataImg":"../src/img/ammo/9x19/DUMDUM-9x19.jpg",
+    "ammoImg":"../src/img/ammo/9x19/ammo-DUMDUM-9x19.jpg"
   },
   "7N12":{
     "id": "48",
@@ -810,8 +810,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"",
-    "dataImg":"src/img/ammo/9x39/7N12-9x39.jpg",
-    "ammoImg":"src/img/ammo/9x39/ammo-7N12-9x39.jpg"
+    "dataImg":"../src/img/ammo/9x39/7N12-9x39.jpg",
+    "ammoImg":"../src/img/ammo/9x39/ammo-7N12-9x39.jpg"
   },
   "7N9":{
     "id": "49",
@@ -827,8 +827,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/9x39/7N9-9x39.jpg",
-    "ammoImg":"src/img/ammo/9x39/ammo-7N9-9x39.jpg" 
+    "dataImg":"../src/img/ammo/9x39/7N9-9x39.jpg",
+    "ammoImg":"../src/img/ammo/9x39/ammo-7N9-9x39.jpg" 
   },
   "SP6":{
     "id": "50",
@@ -844,8 +844,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"",
-    "dataImg":"src/img/ammo/9x39/SP6-9x39.jpg",
-    "ammoImg":"src/img/ammo/9x39/ammo-SP6-9x39.jpg"
+    "dataImg":"../src/img/ammo/9x39/SP6-9x39.jpg",
+    "ammoImg":"../src/img/ammo/9x39/ammo-SP6-9x39.jpg"
   },
   "SP5":{
     "id": "51",
@@ -861,8 +861,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"low",
-    "dataImg":"src/img/ammo/9x39/SP5-9x39.jpg",
-    "ammoImg":"src/img/ammo/9x39/ammo-SP5-9x39.jpg"
+    "dataImg":"../src/img/ammo/9x39/SP5-9x39.jpg",
+    "ammoImg":"../src/img/ammo/9x39/ammo-SP5-9x39.jpg"
   },
   "M2":{
     "id": "52",
@@ -878,8 +878,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"",
-    "dataImg":"src/img/ammo/12-7x99/M2-12-7x99.jpg",
-    "ammoImg":"src/img/ammo/12-7x99/ammo-M2-12-7x99.jpg"
+    "dataImg":"../src/img/ammo/12-7x99/M2-12-7x99.jpg",
+    "ammoImg":"../src/img/ammo/12-7x99/ammo-M2-12-7x99.jpg"
   },
   "Piercing":{
     "id": "53",
@@ -896,8 +896,8 @@
     "hRecoil":"-5",
     "wounding":"",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilPerforante-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilPerforante-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilPerforante-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilPerforante-12x70.jpg"
   },
   "Flechette":{
     "id": "54",
@@ -913,8 +913,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"",
-    "dataImg":"src/img/ammo/12x70/PerdigonesFlechette-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-PerdigonesFlechette-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/PerdigonesFlechette-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-PerdigonesFlechette-12x70.jpg"
   },
   "GT":{
     "id": "55",
@@ -931,8 +931,8 @@
     "hRecoil":"-4",
     "wounding":"low",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilGT-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilGT-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilGT-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilGT-12x70.jpg"
   },
   "Dual":{
     "id": "56",
@@ -949,8 +949,8 @@
     "hRecoil":"-2",
     "wounding":"medium",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilGT-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilGT-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilGT-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilGT-12x70.jpg"
   },
   "Led":{
     "id": "57",
@@ -967,8 +967,8 @@
     "hRecoil":"-2",
     "wounding":"low",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilLED-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilLED-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilLED-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilLED-12x70.jpg"
   },
   "Type7":{
     "id": "58",
@@ -984,8 +984,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/12x70/PeridgonesTipo7-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-PeridgonesTipo7-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/PeridgonesTipo7-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-PeridgonesTipo7-12x70.jpg"
   },
   "Grizzly":{
     "id": "59",
@@ -1002,8 +1002,8 @@
     "hRecoil":"+2",
     "wounding":"medium",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilGrizzly-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilGrizzly-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilGrizzly-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilGrizzly-12x70.jpg"
   },
   "Type8":{
     "id": "60",
@@ -1019,8 +1019,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/12x70/PerdigonesTipo8-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-PerdigonesTipo8-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/PerdigonesTipo8-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-PerdigonesTipo8-12x70.jpg"
   }, 
   "RIP":{
     "id": "61",
@@ -1037,8 +1037,8 @@
     "hRecoil":"+4",
     "wounding":"high",
     "aReach":"10",
-    "dataImg":"src/img/ammo/12x70/ProyectilRip-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-ProyectilRip-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/ProyectilRip-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-ProyectilRip-12x70.jpg"
   },
   "Type5":{
     "id": "62",
@@ -1054,8 +1054,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"high",
-    "dataImg":"src/img/ammo/12x70/PerdigonesTipo5-12x70.jpg",
-    "ammoImg":"src/img/ammo/12x70/ammo-PerdigonesTipo5-12x70.jpg"
+    "dataImg":"../src/img/ammo/12x70/PerdigonesTipo5-12x70.jpg",
+    "ammoImg":"../src/img/ammo/12x70/ammo-PerdigonesTipo5-12x70.jpg"
   },
   "JSP":{
     "id": "63",
@@ -1071,8 +1071,8 @@
     "vRecoil":"+2",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/44/JSP-44.jpg",
-    "ammoImg":"src/img/ammo/44/ammo-JSP-44.jpg"
+    "dataImg":"../src/img/ammo/44/JSP-44.jpg",
+    "ammoImg":"../src/img/ammo/44/ammo-JSP-44.jpg"
   },
   "LFN":{
     "id": "64",
@@ -1088,8 +1088,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/44/LFN-44.jpg",
-    "ammoImg":"src/img/ammo/44/ammo-LFN-44.jpg"
+    "dataImg":"../src/img/ammo/44/LFN-44.jpg",
+    "ammoImg":"../src/img/ammo/44/ammo-LFN-44.jpg"
   },
   "LFNP":{
     "id": "65",
@@ -1105,8 +1105,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/44/LFNP-44.jpg",
-    "ammoImg":"src/img/ammo/44/ammo-LFNP-44.jpg"
+    "dataImg":"../src/img/ammo/44/LFNP-44.jpg",
+    "ammoImg":"../src/img/ammo/44/ammo-LFNP-44.jpg"
   },
   "AP4":{
     "id": "66",
@@ -1122,8 +1122,8 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"",
-    "dataImg":"src/img/ammo/45/AP-45.jpg",
-    "ammoImg":"src/img/ammo/45/ammo-AP-45.jpg"
+    "dataImg":"../src/img/ammo/45/AP-45.jpg",
+    "ammoImg":"../src/img/ammo/45/ammo-AP-45.jpg"
   },
   "FMJ":{
     "id": "67",
@@ -1139,8 +1139,8 @@
     "vRecoil":"+1",
     "hRecoil":"+2",
     "wounding":"low",
-    "dataImg":"src/img/ammo/45/FMJ-45.jpg",
-    "ammoImg":"src/img/ammo/45/ammo-FMJ-45.jpg"
+    "dataImg":"../src/img/ammo/45/FMJ-45.jpg",
+    "ammoImg":"../src/img/ammo/45/ammo-FMJ-45.jpg"
   },
   "HS":{
     "id": "68",
@@ -1156,8 +1156,8 @@
     "vRecoil":"+2",
     "hRecoil":"+4",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/45/HS-45.jpg",
-    "ammoImg":"src/img/ammo/45/ammo-HS-45.jpg"
+    "dataImg":"../src/img/ammo/45/HS-45.jpg",
+    "ammoImg":"../src/img/ammo/45/ammo-HS-45.jpg"
   },
   "AP3":{
     "id": "69",
@@ -1173,8 +1173,8 @@
     "vRecoil":"-3",
     "hRecoil":"-5",
     "wounding":"medium",
-    "dataImg":"src/img/ammo/338/AP-338.jpg",
-    "ammoImg":"src/img/ammo/338/ammo-AP-338.jpg"
+    "dataImg":"../src/img/ammo/338/AP-338.jpg",
+    "ammoImg":"../src/img/ammo/338/ammo-AP-338.jpg"
   },
   "FMJ3":{
     "id": "70",
@@ -1190,8 +1190,8 @@
     "vRecoil":"-2",
     "hRecoil":"-4",
     "wounding":"high",
-    "dataImg":"src/img/ammo/338/FMJ-338.jpg",
-    "ammoImg":"src/img/ammo/338/ammo-FMJ-338.jpg"
+    "dataImg":"../src/img/ammo/338/FMJ-338.jpg",
+    "ammoImg":"../src/img/ammo/338/ammo-FMJ-338.jpg"
   },
   "UPZ":{
     "id": "71",
@@ -1207,7 +1207,7 @@
     "vRecoil":"-1",
     "hRecoil":"-2",
     "wounding":"high",
-    "dataImg":"src/img/ammo/338/UPZ-338.jpg",
-    "ammoImg":"src/img/ammo/338/ammo-UPZ-338.jpg"
+    "dataImg":"../src/img/ammo/338/UPZ-338.jpg",
+    "ammoImg":"../src/img/ammo/338/ammo-UPZ-338.jpg"
   }
 }
